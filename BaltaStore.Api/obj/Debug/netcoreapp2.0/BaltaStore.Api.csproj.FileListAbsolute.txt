@@ -1,0 +1,32 @@
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.deps.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.dev.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfoInputs.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.deps.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.dev.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csprojResolveAssemblyReference.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfoInputs.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csprojResolveAssemblyReference.cache
+C:\dev\balta.io\1974\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.deps.json
+C:\dev\balta.io\1974\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.json
+C:\dev\balta.io\1974\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.runtimeconfig.dev.json
+C:\dev\balta.io\1974\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.dll
+C:\dev\balta.io\1974\BaltaStore.Api\bin\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfoInputs.cache
+C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
+C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
+C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb

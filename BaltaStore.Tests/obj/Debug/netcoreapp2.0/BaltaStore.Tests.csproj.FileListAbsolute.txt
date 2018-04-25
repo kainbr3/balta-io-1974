@@ -1,0 +1,56 @@
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.deps.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.dev.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfoInputs.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfo.cs
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.deps.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.dev.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csprojResolveAssemblyReference.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CoreCompileInputs.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfoInputs.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfo.cs
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CopyComplete
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CopyComplete
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Shared.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Shared.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Shared.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Shared.pdb
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.deps.json
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.json
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.runtimeconfig.dev.json
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Shared.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Domain.pdb
+C:\dev\balta.io\1974\BaltaStore.Tests\bin\Debug\netcoreapp2.0\BaltaStore.Shared.pdb
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfoInputs.cache
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.AssemblyInfo.cs
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CopyComplete
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.dll
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.pdb

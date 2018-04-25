@@ -1,0 +1,32 @@
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.deps.json
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.deps.json
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csprojResolveAssemblyReference.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
+\\PC-ALEXCANARIO\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+C:\Users\Alex Canario\dev\BaltaStore\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CopyComplete
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CoreCompileInputs.cache
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfoInputs.cache
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.AssemblyInfo.cs
+C:\dev\balta.io\1974\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.deps.json
+C:\dev\balta.io\1974\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\dev\balta.io\1974\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\dev\balta.io\1974\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Shared.dll
+C:\dev\balta.io\1974\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Shared.pdb
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CopyComplete
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
