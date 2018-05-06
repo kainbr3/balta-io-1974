@@ -219,7 +219,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Bolsas\\.nuget\\packages\\": {},
+    "C:\\Users\\Alex Canario\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackagesFallback\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
@@ -229,7 +229,7 @@
       "projectUniqueName": "C:\\dev\\balta.io\\1974\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
       "projectName": "BaltaStore.Domain",
       "projectPath": "C:\\dev\\balta.io\\1974\\BaltaStore.Domain\\BaltaStore.Domain.csproj",
-      "packagesPath": "C:\\Users\\Bolsas\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Alex Canario\\.nuget\\packages\\",
       "outputPath": "C:\\dev\\balta.io\\1974\\BaltaStore.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
@@ -237,7 +237,7 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Bolsas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alex Canario\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.Fallback.config"
       ],
