@@ -24,3 +24,4 @@ C:\dev\balta.io\1974\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.
 C:\dev\balta.io\1974\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.AssemblyInfo.cs
 C:\dev\balta.io\1974\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.dll
 C:\dev\balta.io\1974\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.pdb
+C:\dev\balta.io\1974\BaltaStore.Infra\obj\Debug\netstandard2.0\BaltaStore.Infra.csprojResolveAssemblyReference.cache

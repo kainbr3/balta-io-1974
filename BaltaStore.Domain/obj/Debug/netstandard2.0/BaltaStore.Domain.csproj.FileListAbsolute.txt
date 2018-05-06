@@ -30,3 +30,4 @@ C:\dev\balta.io\1974\BaltaStore.Domain\bin\Debug\netstandard2.0\BaltaStore.Share
 C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csproj.CopyComplete
 C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.dll
 C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.pdb
+C:\dev\balta.io\1974\BaltaStore.Domain\obj\Debug\netstandard2.0\BaltaStore.Domain.csprojResolveAssemblyReference.cache

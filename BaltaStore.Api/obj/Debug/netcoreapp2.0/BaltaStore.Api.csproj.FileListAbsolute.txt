@@ -30,3 +30,4 @@ C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.Assem
 C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.AssemblyInfo.cs
 C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.dll
 C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.pdb
+C:\dev\balta.io\1974\BaltaStore.Api\obj\Debug\netcoreapp2.0\BaltaStore.Api.csprojResolveAssemblyReference.cache

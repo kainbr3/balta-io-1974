@@ -54,3 +54,4 @@ C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.A
 C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csproj.CopyComplete
 C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.dll
 C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.pdb
+C:\dev\balta.io\1974\BaltaStore.Tests\obj\Debug\netcoreapp2.0\BaltaStore.Tests.csprojResolveAssemblyReference.cache
