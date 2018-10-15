@@ -1,3 +1,16 @@
+-- Create Database BaltaStore and the Tables
+USE master
+GO
+IF NOT EXISTS (
+    SELECT [name]
+FROM sys.databases
+WHERE [name] = N'BaltaStore'
+)
+CREATE DATABASE BaltaStore
+GO
+
+USE BaltaStore
+GO
 CREATE TABLE [Customer]
 (
 	[Id] UNIQUEIDENTIFIER PRIMARY KEY NOT NULL,
@@ -30,7 +43,7 @@ CREATE TABLE [Product]
 	[Description] TEXT NOT NULL,
 	[Image] VARCHAR(1024) NOT NULL,
 	[Price] MONEY NOT NULL,
-	[QuantityOnHand] DECIMAL(10, 2) NOT NULL,
+	[QuantityOnHand] DECIMAL(10, 2) NOT NULL
 )
 
 CREATE TABLE [Order]
