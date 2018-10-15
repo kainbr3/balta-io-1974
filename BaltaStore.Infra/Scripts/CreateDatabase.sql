@@ -30,7 +30,7 @@ CREATE TABLE [Product]
 	[Description] TEXT NOT NULL,
 	[Image] VARCHAR(1024) NOT NULL,
 	[Price] MONEY NOT NULL,
-	[QuantityOnHand] DECIMAL(10, 2) NOT NULL,
+	[QuantityOnHand] DECIMAL(10, 2) NOT NULL
 )
 
 CREATE TABLE [Order]
